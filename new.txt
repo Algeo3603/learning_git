@@ -1,2 +1,3 @@
 Added new file
-add some new features
+add dev features
+bug fixes
